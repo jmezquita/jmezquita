@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmezquita
 - 👀 I’m interested in software developer ...
-- 🌱 I’m currently learning about net5, angular, react and ionic
+- 🌱 I’m currently learning about net5, angular, react, ionic, Flutter, Dart..
 - 💞️ I’m looking to collaborate in the development of cross-platform applications
 - 📫 my email address are : jmgysoft@hotmail.com; jmgysoft@gmail.com
 
