@@ -22,7 +22,15 @@ I like in outdoor sports: biking, running, jogging, footing
 [![jmezquita](/img/instagram_logo.png)](https://www.instagram.com/jmgysoft/?hl=es)
 
 
-## Top Tecnologies ##
+### Top Tecnologies ###
+
+
+#### My Profile Visits ####
+
+![Visitor Count](https://profile-counter.glitch.me/{jmezquita}/count.svg)
+
+#### My Github Stats ####
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmezquita&show_icons=true&theme=radical&hide_title=true)
 
 
 
