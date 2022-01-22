@@ -25,14 +25,16 @@ I like in outdoor sports: biking, running, jogging, footing
 ### Top Tecnologies ###
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmezquita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### My Profile Visits ####
 
 ![Visitor Count](https://profile-counter.glitch.me/{jmezquita}/count.svg)
 
 #### My Github Stats ####
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmezquita&show_icons=true&theme=radical&hide_title=true)
-
-
 
 
 
