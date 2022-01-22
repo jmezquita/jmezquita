@@ -24,9 +24,11 @@ I like in outdoor sports: biking, running, jogging, footing
 
 #### Top Tecnologies ####
 
-
-#### Top Tecnologies ####
+<!--
+ #### Top Tecnologies ####
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmezquita&layout=compact)
+-->
+
 
 
 
