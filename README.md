@@ -8,12 +8,23 @@
 - 📫 How to reach me : jmgysoft@hotmail.com; jmgysoft@gmail.com
 
 
-## about me ##
+## About me ##
+Cross-platform app developer: Desktop, Web and Mobile, I have 10+ in app development. Extensive knowledge of desktop development, 
+I like to teach what I learn to others, it is the way I find to express my emotions.
+I like in outdoor sports: biking, running, jogging, footing
 
+
+
+#### Social Networks ####
 [![jmezquita](/img/twitter_logo.png)](https://twitter.com/intent/follow?screen_name=jmgysoft)
 [![jmezquita](/img/facebook_logo.png)](https://www.facebook.com/jmgysoft)
 [![jmezquita](/img/linkedin_logo.png)](https://www.linkedin.com/in/jmgysoft/)
 [![jmezquita](/img/instagram_logo.png)](https://www.instagram.com/jmgysoft/?hl=es)
+
+
+## Top Tecnologies ##
+
+
 
 
 
