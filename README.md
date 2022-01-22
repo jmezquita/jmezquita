@@ -3,12 +3,17 @@
 
 
 
-- 👀 I’m interested in software developer ...
-- 🌱 I’m currently learning about net5, angular, react, ionic, Flutter, Dart..
-- 💞️ I’m looking to collaborate in the development of cross-platform applications
+- 👀 I’m passionate about cross-platform software development
+- 💞️ I would love to collaborate in the development of cross-platform applications
 - 📫 How to reach me : jmgysoft@hotmail.com; jmgysoft@gmail.com
 
 about me 
+
+
+
+
+
+
 <!---
 jmezquita/jmezquita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
