@@ -13,6 +13,7 @@
 [![jmezquita](/img/twitter_logo.png)](https://twitter.com/intent/follow?screen_name=jmgysoft)
 [![jmezquita](/img/facebook_logo.png)](https://www.facebook.com/jmgysoft)
 [![jmezquita](/img/linkedin_logo.png)](https://www.linkedin.com/in/jmgysoft/)
+[![jmezquita](/img/instagram_logo.png)](https://www.instagram.com/jmgysoft/?hl=es)
 
 
 
